@@ -1,0 +1,2 @@
+class BezdimDay:
+    print("gittt")
